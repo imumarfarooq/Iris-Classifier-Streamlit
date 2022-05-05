@@ -20,7 +20,7 @@ The columns in this dataset are:
 
 ### Streamlit Dashboard
 
-
+![Streamlit Dashboard](https://github.com/imumarfarooq/Iris-Classifier-Streamlit/blob/main/Result.png)
 
 
 
